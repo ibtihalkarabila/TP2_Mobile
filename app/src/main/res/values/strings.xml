@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MonPremierProjet</string>
+    <string name="btn_click">Cliquer ici</string>
+    <string name="welcome_message">
+        Bienvenue dans le TP2 de Développement Mobile !
+    </string>
+</resources>
